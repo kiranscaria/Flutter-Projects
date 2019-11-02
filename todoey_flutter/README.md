@@ -5,7 +5,7 @@ Features have been added to the code in the course:smiley:. The main changes are
 1. Slide left/right on task to delete it.
 2. Ability to undo the deleted task. 
 
-# --------------------------------Old Readme---------------------------------
+# --------------------------Old Readme--------------------------
 # todoey_flutter
 
 A TODO application.
