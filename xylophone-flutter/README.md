@@ -1,3 +1,8 @@
+# Xylophone
+This is the code used in the Section 14 of Angela Yu's wonderful [course on Udemy](https://www.udemy.com/course/flutter-bootcamp-with-dart/). Much hasn't been changed from the original :grin:.
+
+## -------------------- Old Readme -----------------------
+
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
