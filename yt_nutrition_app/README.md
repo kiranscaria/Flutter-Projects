@@ -9,7 +9,7 @@ I made a few changes here and there. The code hasn't been refactored much, so it
 
 #
 
-## ******* The Original Readme *******
+## ******* The Old Readme *******
 
 # Curved Design
 
